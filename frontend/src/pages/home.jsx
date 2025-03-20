@@ -26,7 +26,7 @@ function HomeComponent() {
 
                 <div style={{ display: "flex", alignItems: "center" }}>
 
-                    <h2>Apna Video Call</h2>
+                    <h2>AdyTalk</h2>
                 </div>
 
                 <div style={{ display: "flex", alignItems: "center" }}>
@@ -54,7 +54,7 @@ function HomeComponent() {
             <div className="meetContainer">
                 <div className="leftPanel">
                     <div>
-                        <h2>Providing Quality Video Call Just Like Quality Education</h2>
+                        <h2>AdiConnect is a high-quality video calling application that enables seamless communication through video calls, text messaging, and screen sharing. Built for personal and professional use, it ensures a smooth and secure experience.</h2>
 
                         <div style={{ display: 'flex', gap: "10px" }}>
 
